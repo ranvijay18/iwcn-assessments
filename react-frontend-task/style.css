@@ -1,0 +1,25 @@
+table, td, th {
+    border: 1px solid rgba(0, 0, 0, 0.267);
+    padding: 5px;
+}
+
+
+tr td:nth-child(1){
+    background-color:rgba(218, 218, 218, 0.212);
+    text-align: center;
+    width:200px;
+}
+
+tr th:nth-child(1){
+    background-color:rgba(218, 218, 218, 0.37);
+    text-align: center;
+    width:200px;
+    border-right: none;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
