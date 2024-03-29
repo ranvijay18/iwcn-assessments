@@ -1,0 +1,33 @@
+
+.notes{
+    background-color: rgb(199, 198, 196);
+    width: 230px;
+    height: 130px;
+    padding: 5px;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: inline-block;
+    margin-top: 30px;
+    position: relative;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.delete-btn{
+    position: absolute;
+    bottom: 15px;  
+    right: 25px;
+    font-size: 20px; 
+    color: rgb(61, 71, 92);
+    cursor: pointer;
+}
+
+
+.note {
+    font-size: 17px;
+}
+.date{
+    font-size: 12px;
+}
+
